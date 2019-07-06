@@ -9,7 +9,7 @@ public class ReadArray {
     public static void main(String[] args) throws IOException {
 
         /*
-        1D array
+        1D array 123
          */
 
         BufferedReader br = new BufferedReader((new InputStreamReader(System.in)));
